@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cf5d256-68b9-437b-83f3-f7453decd869" name="Changes" comment="interface HistogramDisplay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/swing/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/swing/JFreePanelHistogramDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/swing/JFreePanelHistogramDisplay.java" afterDir="false" />
+    <list default="true" id="6cf5d256-68b9-437b-83f3-f7453decd869" name="Changes" comment="class Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2Xm4tguTSMTlogLFlFaOB1zvGzi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +37,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Usuario/Documents/INGENIERÍA INFORMÁRICA/3º Tercero/Ingeniería del Software II/kata-4"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,13 +74,40 @@
       <option name="project" value="LOCAL" />
       <updated>1699221321066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class JFreePanelHistogramDisplay">
+      <option name="closed" value="true" />
+      <created>1699221463976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699221463976</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class MainFrame">
+      <option name="closed" value="true" />
+      <created>1699221588090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699221588090</updated>
+    </task>
+    <task id="LOCAL-00006" summary="class Main">
+      <option name="closed" value="true" />
+      <created>1699221676923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699221676923</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="class Histogram" />
     <MESSAGE value="interface HistogramDisplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface HistogramDisplay" />
+    <MESSAGE value="class JFreePanelHistogramDisplay" />
+    <MESSAGE value="class MainFrame" />
+    <MESSAGE value="class Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="class Main" />
   </component>
 </project>
